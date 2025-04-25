@@ -2,7 +2,7 @@ import React from 'react'
 import { useState } from "react"
 import { Link, useParams } from "react-router-dom"
 import { Search, Heart, HelpCircle } from "lucide-react"
-import Header from '../components/header'
+import Header from '../components/Header'
 import ApiCard from '../components/ApiCard'
 
 export default function UserProfile() {
